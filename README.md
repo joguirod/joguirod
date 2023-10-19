@@ -1,5 +1,3 @@
-<h3 align="center">Brazilian student currently studying tecnlogy in systems analysis and development in Federal Institute of Piaui</h3>
-
 - 🌱 I’m currently learning **.NET, ASPNET, Java**
 
 - 📫 How to reach me **joguiads@gmail.com**
